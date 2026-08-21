@@ -1,3 +1,4 @@
 streamlit
 scikit-learn 
-Python
+Python 
+Docker
